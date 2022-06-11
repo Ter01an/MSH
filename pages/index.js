@@ -1,3 +1,4 @@
+import LayoutDefault from "../components/Layout";
 
 export default function Home() {
   return (
@@ -6,3 +7,5 @@ export default function Home() {
     </div>
   )
 }
+
+Home.getLayout = page => <LayoutDefault>{page}</LayoutDefault>;

@@ -1,0 +1,52 @@
+
+
+.container {
+    margin-bottom: 12px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 12px;
+}
+
+.container:last-child {
+    margin-bottom: 0;
+}
+
+.title {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 125%;
+    color: #1E2025;
+    margin-bottom: 8px;
+    text-decoration: none;
+    display: block;
+}
+
+.date {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 125%;
+    color: #1E2025;
+    margin-bottom: 4px;
+}
+
+.place {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 125%;
+    color: #696C71;
+}
+
+.labels {
+    margin-top: 12px;
+}
+
+.label {
+    background: #BBCFFF;
+    border-radius: 8px;
+    display: inline-block;
+    padding: 4px 12px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 125%;
+    color: #0044CC;
+}

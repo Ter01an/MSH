@@ -1,0 +1,29 @@
+
+.href {
+    padding: 10px 0;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    text-align: center;
+    letter-spacing: -0.24px;
+    fill: #B2B5BB;
+    color: #B2B5BB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+}
+
+.title {
+    margin-top: 3px;
+}
+
+.primary {
+    color: #1E2025;
+    fill: #1E2025;
+}
+
+.secondary {
+    color: #1E2025;
+    fill: #FF0000;
+}

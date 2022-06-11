@@ -1,0 +1,8 @@
+
+.container {
+    margin: 12px 0;
+    display: flex;
+    padding: 2px;
+    background: rgba(118, 118, 128, 0.12);
+    border-radius: 8px;
+}
